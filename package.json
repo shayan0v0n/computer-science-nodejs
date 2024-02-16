@@ -8,6 +8,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^20.11.19",
+    "async": "^3.2.5",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   }

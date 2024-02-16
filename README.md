@@ -1,1 +1,3 @@
-# computer-science-nodejs
+run code using
+
+npx ts-node \*.ts

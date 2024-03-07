@@ -1,4 +1,4 @@
-const sampleAsyncTask = (task: string) => {
+const sampleAsyncTask = (task) => {
   return new Promise((resolve) => {
     setTimeout(() => {
       console.log(`${task} completed.`);
